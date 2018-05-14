@@ -6,11 +6,15 @@ Apart that the two systems are fairly similar.
 
 ### Basic commands
 
+`svn list` -> show repository contents
+
+`svn mkdir` -> make directory
+
 `svn import` -> `git add + commit` (unversioned data - only new files)
 
-`svn checkout` -> `git checkout` (versioned data)
+`svn checkout` or `svn co` -> `git checkout` (versioned data)
 
-`svn update` -> update working copy
+`svn update` or `svn up` -> update working copy
 
 `svn commit` -> just like git commit (it is useful for review)
 
@@ -28,3 +32,7 @@ Apart that the two systems are fairly similar.
 
 ### Creating a branch
 `$ svn copy https://example.com/MyRepo/trunk https://example.com/MyRepo/branches/MyNewBranch -m "Creating a new branch"`
+
+Later use:
+
+`svn merge`
