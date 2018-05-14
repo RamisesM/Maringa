@@ -11,7 +11,10 @@
 
 ##### Total: 68
 
-- [ ] 2 : Ferramentas de Versionamento (Subversion, GIT).
+- [x] 2 : Ferramentas de Versionamento (Subversion, GIT).
+- [x] 1 : PHP
+- [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
+Delphi;
 - [ ] 2 : Arquitetura em camadas; Webservice, SOAP, Rest;
 - [ ] 2 : DDD - Domain-Driven Design. Modelagem ágil: Programação extrema
 (eXtreme Programming – XP), Scrum.
@@ -43,8 +46,6 @@ software.
 e Modelagem de dados. Linguagem de Definição e Manipulação de Dados (SQL).
 - [ ] 2 : Conhecimento sobre metodologia de desenvolvimento de sistemas (3-tier,
    SOA, etc).
-- [ ] 8 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
-Delphi e PHP;
 - [ ] 2 : Lógica de programação: construção de algoritmos, tipos de dados e as
 operações primitivas, variáveis e expressões, comando de atribuição, avaliação
 de expressões, comandos de entrada e saída, estruturas sequenciais, estrutura
@@ -53,7 +54,7 @@ estruturada.
 - [ ] 2 : Estruturas de dados: análise de algoritmos, listas encadeadas, pilhas
 e filas, árvores, filas de prioridade e heaps, dicionários de dados,
 classificação e ordenamento de dados.
-- [ ] 2 : Programação Orientada a Objetos: objetos, classes, atributos e 
+- [ ] 2 : Programação Orientada a Objetos: objetos, classes, atributos e
 métodos; estado, comportamento e identidade; abstração e encapsulamento;
 herança e polimorfismo e interfaces.
 - [ ] 10 : Lei Orgânica do Município de Maringá.
