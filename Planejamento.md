@@ -11,11 +11,13 @@
 
 ##### Total: 68
 
+- [x] 10 : Lei Orgânica do Município de Maringá.
 - [x] 2 : Ferramentas de Versionamento (Subversion, GIT).
 - [x] 1 : PHP
+- [ ] 2 : Arquitetura em camadas; Webservice, SOAP, Rest;
+- [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
 - [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
 Delphi;
-- [ ] 2 : Arquitetura em camadas; Webservice, SOAP, Rest;
 - [ ] 2 : DDD - Domain-Driven Design. Modelagem ágil: Programação extrema
 (eXtreme Programming – XP), Scrum.
 - [ ] 2 : Linguagem de Modelagem Unificada (Unified Modeling Language – UML).
@@ -35,7 +37,6 @@ browsers, ferramentas de busca, Correios Eletrônicos.
 tecnologias de smart-card e certificação digital;
 - [ ] 2 : Conhecimento sobre normas e regulamentações associadas ao uso de
 Certificação Digital e smart-card.
-- [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
 - [ ] 2 : Testes de Software: Unidade, Integração, Sistema, Aceitação,
 Regressão, Desempenho, Cargo).
 - [ ] 4 : Arquitetura de Software. Definição dos conceitos de arquitetura de
@@ -57,7 +58,4 @@ classificação e ordenamento de dados.
 - [ ] 2 : Programação Orientada a Objetos: objetos, classes, atributos e
 métodos; estado, comportamento e identidade; abstração e encapsulamento;
 herança e polimorfismo e interfaces.
-- [ ] 10 : Lei Orgânica do Município de Maringá.
 - [ ] 12 : Estatuto dos Servidores Públicos do Município de Maringá.
-
-Excedente: 22 hrs
