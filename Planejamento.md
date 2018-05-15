@@ -14,8 +14,11 @@
 - [x] 10 : Lei Orgânica do Município de Maringá.
 - [x] 2 : Ferramentas de Versionamento (Subversion, GIT).
 - [x] 1 : PHP
-- [ ] 2 : Arquitetura em camadas; Webservice, SOAP, Rest;
+- [x] 4 : Banco de Dados. Sistemas de gerenciamento de banco de dados. Projeto
+e Modelagem de dados. Linguagem de Definição e Manipulação de Dados (SQL).
+- [ ] 2 : Webservice, SOAP, Rest;
 - [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
+- [ ] Arquitetura em camadas;
 - [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
 Delphi;
 - [ ] 2 : DDD - Domain-Driven Design. Modelagem ágil: Programação extrema
@@ -43,8 +46,6 @@ Regressão, Desempenho, Cargo).
 software, componentes, frameworks e padrões de projeto;
 - [ ] 2 : Padrões de Projeto; Gerenciamento de processos de desenvolvimento de
 software.
-- [ ] 4 : Banco de Dados. Sistemas de gerenciamento de banco de dados. Projeto
-e Modelagem de dados. Linguagem de Definição e Manipulação de Dados (SQL).
 - [ ] 2 : Conhecimento sobre metodologia de desenvolvimento de sistemas (3-tier,
    SOA, etc).
 - [ ] 2 : Lógica de programação: construção de algoritmos, tipos de dados e as
