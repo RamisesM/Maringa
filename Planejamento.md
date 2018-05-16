@@ -16,13 +16,13 @@
 - [x] 1 : PHP
 - [x] 4 : Banco de Dados. Sistemas de gerenciamento de banco de dados. Projeto
 e Modelagem de dados. Linguagem de Definição e Manipulação de Dados (SQL).
-- [ ] 2 : Webservice, SOAP, Rest;
+- [x] 2 : Webservice, SOAP, Rest;
+- [x] 2 : DDD - Domain-Driven Design. Modelagem ágil: Programação extrema
+(eXtreme Programming – XP), Scrum.
 - [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
 - [ ] Arquitetura em camadas;
 - [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
 Delphi;
-- [ ] 2 : DDD - Domain-Driven Design. Modelagem ágil: Programação extrema
-(eXtreme Programming – XP), Scrum.
 - [ ] 2 : Linguagem de Modelagem Unificada (Unified Modeling Language – UML).
 - [ ] 2 : Usos indevidos na Internet: Conhecimento sobre ações e procedimentos
 indevidos na Internet, tais como as técnicas de phishing, spamers, ações de
@@ -60,3 +60,4 @@ classificação e ordenamento de dados.
 métodos; estado, comportamento e identidade; abstração e encapsulamento;
 herança e polimorfismo e interfaces.
 - [ ] 12 : Estatuto dos Servidores Públicos do Município de Maringá.
+- [ ] Maybe come back to DDD
