@@ -19,8 +19,12 @@ e Modelagem de dados. Linguagem de Definição e Manipulação de Dados (SQL).
 - [x] 2 : Webservice, SOAP, Rest;
 - [x] 2 : DDD - Domain-Driven Design. Modelagem ágil: Programação extrema
 (eXtreme Programming – XP), Scrum.
+- [x] 2 : Arquitetura em camadas;
+- [ ] 4 : Arquitetura de Software. Definição dos conceitos de arquitetura de
+software, componentes, frameworks e padrões de projeto;
+- [ ] 2 : Conhecimento sobre metodologia de desenvolvimento de sistemas (3-tier,
+  SOA, etc).
 - [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
-- [ ] Arquitetura em camadas;
 - [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
 Delphi;
 - [ ] 2 : Linguagem de Modelagem Unificada (Unified Modeling Language – UML).
@@ -42,12 +46,8 @@ tecnologias de smart-card e certificação digital;
 Certificação Digital e smart-card.
 - [ ] 2 : Testes de Software: Unidade, Integração, Sistema, Aceitação,
 Regressão, Desempenho, Cargo).
-- [ ] 4 : Arquitetura de Software. Definição dos conceitos de arquitetura de
-software, componentes, frameworks e padrões de projeto;
 - [ ] 2 : Padrões de Projeto; Gerenciamento de processos de desenvolvimento de
 software.
-- [ ] 2 : Conhecimento sobre metodologia de desenvolvimento de sistemas (3-tier,
-   SOA, etc).
 - [ ] 2 : Lógica de programação: construção de algoritmos, tipos de dados e as
 operações primitivas, variáveis e expressões, comando de atribuição, avaliação
 de expressões, comandos de entrada e saída, estruturas sequenciais, estrutura
@@ -60,4 +60,3 @@ classificação e ordenamento de dados.
 métodos; estado, comportamento e identidade; abstração e encapsulamento;
 herança e polimorfismo e interfaces.
 - [ ] 12 : Estatuto dos Servidores Públicos do Município de Maringá.
-- [ ] Maybe come back to DDD
