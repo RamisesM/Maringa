@@ -122,3 +122,5 @@ Web services can be thought of as a consumer-provider relationship on the Web
 while SOA is about designing your architecture to best work in a Web service
 environment. It is more than a set of technologies and runs independent of any
 specific technologies.
+
+![](soa.png)
