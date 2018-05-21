@@ -20,10 +20,13 @@ e Modelagem de dados. Linguagem de Definição e Manipulação de Dados (SQL).
 - [x] 2 : DDD - Domain-Driven Design. Modelagem ágil: Programação extrema
 (eXtreme Programming – XP), Scrum.
 - [x] 2 : Arquitetura em camadas;
-- [ ] 4 : Arquitetura de Software. Definição dos conceitos de arquitetura de
+- [x] 4 : Arquitetura de Software. Definição dos conceitos de arquitetura de
 software, componentes, frameworks e padrões de projeto;
-- [ ] 2 : Conhecimento sobre metodologia de desenvolvimento de sistemas (3-tier,
+- [x] 2 : Conhecimento sobre metodologia de desenvolvimento de sistemas (3-tier,
   SOA, etc).
+- [x] 2 : Padrões de Projeto; Gerenciamento de processos de desenvolvimento de
+software.
+- [ ] 2 : Arquitetura de rede TCP-IP: Conceitos básicos;
 - [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
 - [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
 Delphi;
@@ -35,7 +38,6 @@ Hackers.
 Criptografia utilizados (MD5, SHA-1, RSA, simétrica, assimétrica).
 - [ ] 2 : Certificação Digital: Noções sobre certificação digital e sua
 utilização;
-- [ ] 2 : Arquitetura de rede TCP-IP: Conceitos básicos;
 - [ ] 4 : Funções dos protocolos; Protocolo de Aplicação, como FTP, SMTP, HTTP.
 Internet: Estrutura da Internet, seus principais Componentes de comunicação,
 browsers, ferramentas de busca, Correios Eletrônicos.
@@ -46,8 +48,6 @@ tecnologias de smart-card e certificação digital;
 Certificação Digital e smart-card.
 - [ ] 2 : Testes de Software: Unidade, Integração, Sistema, Aceitação,
 Regressão, Desempenho, Cargo).
-- [ ] 2 : Padrões de Projeto; Gerenciamento de processos de desenvolvimento de
-software.
 - [ ] 2 : Lógica de programação: construção de algoritmos, tipos de dados e as
 operações primitivas, variáveis e expressões, comando de atribuição, avaliação
 de expressões, comandos de entrada e saída, estruturas sequenciais, estrutura
