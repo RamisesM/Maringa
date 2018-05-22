@@ -26,14 +26,14 @@ software, componentes, frameworks e padrões de projeto;
   SOA, etc).
 - [x] 2 : Padrões de Projeto; Gerenciamento de processos de desenvolvimento de
 software.
+- [x] 2 : Arquitetura de rede TCP-IP: Conceitos básicos;
 - [ ] 2 : Usos indevidos na Internet: Conhecimento sobre ações e procedimentos
 indevidos na Internet, tais como as técnicas de phishing, spamers, ações de
 Hackers.
+- [ ] 2 : Funções dos protocolos; Protocolo de Aplicação, como FTP, SMTP, HTTP.
+- [ ] 2 : Internet: Estrutura da Internet, seus principais Componentes de
+comunicação, browsers, ferramentas de busca, Correios Eletrônicos.
 - [ ] 2 : Linguagem de Modelagem Unificada (Unified Modeling Language – UML).
-- [ ] 2 : Arquitetura de rede TCP-IP: Conceitos básicos;
-- [ ] 4 : Funções dos protocolos; Protocolo de Aplicação, como FTP, SMTP, HTTP.
-Internet: Estrutura da Internet, seus principais Componentes de comunicação,
-browsers, ferramentas de busca, Correios Eletrônicos.
 - [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
 - [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
 Delphi;
