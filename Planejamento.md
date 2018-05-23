@@ -27,18 +27,15 @@ software, componentes, frameworks e padrões de projeto;
 - [x] 2 : Padrões de Projeto; Gerenciamento de processos de desenvolvimento de
 software.
 - [x] 2 : Arquitetura de rede TCP-IP: Conceitos básicos;
-- [ ] 2 : Usos indevidos na Internet: Conhecimento sobre ações e procedimentos
+- [x] 2 : Usos indevidos na Internet: Conhecimento sobre ações e procedimentos
 indevidos na Internet, tais como as técnicas de phishing, spamers, ações de
 Hackers.
-- [ ] 2 : Funções dos protocolos; Protocolo de Aplicação, como FTP, SMTP, HTTP.
+- [x] 2 : Funções dos protocolos; Protocolo de Aplicação, como FTP, SMTP, HTTP.
 - [ ] 2 : Internet: Estrutura da Internet, seus principais Componentes de
 comunicação, browsers, ferramentas de busca, Correios Eletrônicos.
-- [ ] 2 : Linguagem de Modelagem Unificada (Unified Modeling Language – UML).
-- [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
-- [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
-Delphi;
 - [ ] 4 : Criptografia: Noções sobre as principais técnicas e algoritmos de
 Criptografia utilizados (MD5, SHA-1, RSA, simétrica, assimétrica).
+- [ ] 2 : Linguagem de Modelagem Unificada (Unified Modeling Language – UML).
 - [ ] 2 : Certificação Digital: Noções sobre certificação digital e sua
 utilização;
 - [ ] 2 : Conhecimento sobre tecnologias de cartão com “chip”;
@@ -59,4 +56,7 @@ classificação e ordenamento de dados.
 - [ ] 2 : Programação Orientada a Objetos: objetos, classes, atributos e
 métodos; estado, comportamento e identidade; abstração e encapsulamento;
 herança e polimorfismo e interfaces.
+- [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
+- [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
+Delphi;
 - [ ] 12 : Estatuto dos Servidores Públicos do Município de Maringá.
