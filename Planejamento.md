@@ -26,15 +26,15 @@ software, componentes, frameworks e padrões de projeto;
   SOA, etc).
 - [x] 2 : Padrões de Projeto; Gerenciamento de processos de desenvolvimento de
 software.
-- [x] 2 : Arquitetura de rede TCP-IP: Conceitos básicos;
+- [x] 2 : Arquitetura de rede TCP-IP: Conceitos básicos; **video**
 - [x] 2 : Usos indevidos na Internet: Conhecimento sobre ações e procedimentos
 indevidos na Internet, tais como as técnicas de phishing, spamers, ações de
 Hackers.
-- [x] 2 : Funções dos protocolos; Protocolo de Aplicação, como FTP, SMTP, HTTP.
+- [x] 2 : Funções dos protocolos; Protocolo de Aplicação, como FTP, SMTP, HTTP. **video**
 - [ ] 2 : Internet: Estrutura da Internet, seus principais Componentes de
-comunicação, browsers, ferramentas de busca, Correios Eletrônicos.
+comunicação, browsers, ferramentas de busca, Correios Eletrônicos. **video**
 - [ ] 4 : Criptografia: Noções sobre as principais técnicas e algoritmos de
-Criptografia utilizados (MD5, SHA-1, RSA, simétrica, assimétrica).
+Criptografia utilizados (MD5, SHA-1, RSA, simétrica, assimétrica). **video**
 - [ ] 2 : Linguagem de Modelagem Unificada (Unified Modeling Language – UML).
 - [ ] 2 : Certificação Digital: Noções sobre certificação digital e sua
 utilização;
