@@ -59,3 +59,9 @@ Alice can recover m from c by using her private key exponent d by computing:
 Given m, she can recover the original message M by reversing the padding scheme.
 
 ##### Padding schemes
+
+Practical RSA implementations typically embed some form of structured,
+randomized padding into the value m before encrypting it. This padding ensures
+that m does not fall into the range of insecure plaintexts, and that a given
+message, once padded, will encrypt to one of a large number of different
+possible ciphertexts.
