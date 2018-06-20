@@ -33,30 +33,31 @@ Hackers.
 - [x] 2 : Funções dos protocolos; Protocolo de Aplicação, como FTP, SMTP, HTTP. **video**
 - [x] 4 : Criptografia: Noções sobre as principais técnicas e algoritmos de
 Criptografia utilizados (MD5, SHA-1, RSA, simétrica, assimétrica). **video**
-- [ ] 2 : Internet: Estrutura da Internet, seus principais Componentes de
+- [x] 2 : Internet: Estrutura da Internet, seus principais Componentes de
 comunicação, browsers, ferramentas de busca, Correios Eletrônicos. **video**
-- [ ] 2 : Linguagem de Modelagem Unificada (Unified Modeling Language – UML).
-- [ ] 2 : Certificação Digital: Noções sobre certificação digital e sua
+- [x] 2 : Linguagem de Modelagem Unificada (Unified Modeling Language – UML).
+- [x] 2 : Certificação Digital: Noções sobre certificação digital e sua
 utilização;
-- [ ] 2 : Conhecimento sobre tecnologias de cartão com “chip”;
-- [ ] 2 : Conhecimento sobre desenvolvimento de sistemas que utilizam
+- [x] 2 : Conhecimento sobre tecnologias de cartão com “chip”;
+- [x] 2 : Conhecimento sobre desenvolvimento de sistemas que utilizam
 tecnologias de smart-card e certificação digital;
-- [ ] 2 : Conhecimento sobre normas e regulamentações associadas ao uso de
+- [x] 2 : Conhecimento sobre normas e regulamentações associadas ao uso de
 Certificação Digital e smart-card.
-- [ ] 2 : Testes de Software: Unidade, Integração, Sistema, Aceitação,
-Regressão, Desempenho, Cargo).
-- [ ] 2 : Lógica de programação: construção de algoritmos, tipos de dados e as
+- [x] 2 : Testes de Software: Unidade, Integração, Sistema (simular usuario),
+Aceitação (alguns usuarios), Regressão (add coisa e executar td), Desempenho,
+Cargo).
+- [x] 2 : Lógica de programação: construção de algoritmos, tipos de dados e as
 operações primitivas, variáveis e expressões, comando de atribuição, avaliação
 de expressões, comandos de entrada e saída, estruturas sequenciais, estrutura
 de seleção, estruturas de repetição, modularização, recursividade e programação
 estruturada.
-- [ ] 2 : Estruturas de dados: análise de algoritmos, listas encadeadas, pilhas
+- [x] 2 : Estruturas de dados: análise de algoritmos, listas encadeadas, pilhas
 e filas, árvores, filas de prioridade e heaps, dicionários de dados,
 classificação e ordenamento de dados.
-- [ ] 2 : Programação Orientada a Objetos: objetos, classes, atributos e
-métodos; estado, comportamento e identidade; abstração e encapsulamento;
-herança e polimorfismo e interfaces.
-- [ ] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
-- [ ] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
+- [x] 2 : Programação Orientada a Objetos: objetos, classes, atributos e
+métodos; estado, comportamento (o que pode fazer) e identidade (obj é unico);
+abstração e encapsulamento; herança e polimorfismo e interfaces.
+- [x] 4 : Desenvolvimento Web: HTML, CSS, JavaScript, Ajax, JSON, XML.
+- [x] 7 : Conhecimentos de Linguagens de programação Java (JEE e J2SE), Phyton,
 Delphi;
-- [ ] 12 : Estatuto dos Servidores Públicos do Município de Maringá.
+- [x] 12 : Estatuto dos Servidores Públicos do Município de Maringá.
